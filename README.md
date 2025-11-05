@@ -18,3 +18,19 @@ I used Java and Bash Shell (for running compilation and running the code)
 * W3schools Bash https://www.w3schools.com/bash/index.php
 * W3schools - Java https://www.w3schools.com/java/default.asp
 * FreeCodeCamp - Compile & Run Java Code https://www.freecodecamp.org/news/how-to-execute-and-run-java-code/
+
+# Installation
+
+```
+git clone this/repo/
+
+cd weatherhub
+
+// ensure that JDK 17 / OpenJDK 17 is installed on your machine
+
+./mvnw clean install
+
+java -jar target/byter-1.0-SNAPSHOT.jar
+
+```
+
