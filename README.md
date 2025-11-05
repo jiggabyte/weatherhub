@@ -1,11 +1,11 @@
-# HelloWorld
+# WeatherHub
 
 # Overview
 
-This software is a simple java program that prints "hello world" to the console, a software that just demonstrates the setting up of a java program and explaining it in a presentation.
+This software is a simple java program that checks city weather forecasts to the console, a software that just demonstrates the setting up of a java program and explaining it in a presentation.
 
 
-[Hello World Demo Video](https://youtu.be/ERe6vvVYO-M)
+[WeatherHub Demo Video](https://youtu.be/ERe6vvVYO-M)
 
 # Development Environment
 
