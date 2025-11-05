@@ -1,6 +1,7 @@
 package com.jigga.byter;
 
-class Solution {
+
+class Weather {
 
     public static void main(String[] args) {
 
