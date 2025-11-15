@@ -1,4 +1,5 @@
 com/jigga/byter/Weather.class
 com/jigga/byter/Menu.class
 com/jigga/byter/blueprints/Actions.class
+com/jigga/byter/blueprints/ActionObject.class
 com/jigga/byter/utils/Jsonify.class
